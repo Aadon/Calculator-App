@@ -1,0 +1,30 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+button {
+  width: 60px;
+  margin: 10px;
+  padding: 5px;
+  border-radius: 6px;
+  background: #ccc;
+  color: rgb(16, 95, 16);
+}
+span {
+  display: inline-block;
+  text-decoration: underline;
+  font-size: 20px;
+  margin-left: 20px;
+  color: coral;
+}
+
+#add-btn {
+  display: block;
+}
+
+#sum {
+  font-weight: bold;
+  color: #6564ed;
+  text-decoration: underline;
+}
